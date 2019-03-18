@@ -15,7 +15,7 @@ react - A library for building user interfaces. It's declarative, efficient, and
 hyperapp - 1kb JavaScript library for building frontend applications.
 preact - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 nativescript - Build truly native cross-platform iOS and Android apps with JavaScript
-react-native
+react-native - A framework for building native apps with React.
 riot - React-like library, but with very small size.
 thorax - Strengthening your Backbone.
 chaplin - An architecture for JavaScript applications using the Backbone.js library.
@@ -31,3 +31,4 @@ LiquidLava - Transparent MVC framework for building user interfaces.
 feathers - A minimalist real-time JavaScript framework for tomorrows apps.
 Keo - Functional stateless React components with Shadow DOM support.
 atvjs - Blazing fast Apple TV application development using pure JavaScript.
+angular.io - One framework - Mobile & desktop.
